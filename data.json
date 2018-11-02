@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "unit_length": 2700,
+            "major": "\u8f6f\u4ef6\u5de5\u7a0b",
+            "stu_password": "111111",
+            "stu_id": "201601060928",
+            "status": -1,
+            "class": "2016-2",
+            "realname": "\u9b4f\u4ef2\u534e",
+            "lessons": []
+        }
+    ]
+}
